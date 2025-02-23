@@ -1,6 +1,6 @@
 # Are LLM-based Evaluators Confusing NLG Quality Criteria?
 
-This is the official repository for our ACL 2024 paper [Are LLM-based Evaluators Confusing NLG Quality Criteria?](https://arxiv.org/pdf/2402.12055)
+This is the official repository for our ACL 2024 paper [Are LLM-based Evaluators Confusing NLG Quality Criteria?](https://aclanthology.org/2024.acl-long.516.pdf)
 
 We release the following data and codes used in our work:
 
@@ -13,10 +13,11 @@ We release the following data and codes used in our work:
 ### Citation
 
 ```
-@article{hu2024llm,
+@inproceedings{hu2024llm,
   title={Are LLM-based Evaluators Confusing NLG Quality Criteria?},
   author={Hu, Xinyu and Gao, Mingqi and Hu, Sen and Zhang, Yang and Chen, Yicheng and Xu, Teng and Wan, Xiaojun},
-  journal={arXiv preprint arXiv:2402.12055},
+  booktitle={Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={9530--9570},
   year={2024}
 }
 ```
